@@ -118,6 +118,10 @@ https://github.com/GGC-SD/DiscordBot.git
 1. UI/UX Design :file_folder:
 2. Documentation Lead :scroll:
 
+**Jonathan Hummel**
+1. Lead Programmer ⭐
+2. Team Manager 🏴‍☠️
+
 ## Project Flyer & Video
 - Flyer here
 - Video link here
