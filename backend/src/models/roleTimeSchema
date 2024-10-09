@@ -1,0 +1,19 @@
+const mongoose = require("mongoose");
+
+
+const roleTimeSchema = new mongoose.Schema({
+    roleID: {
+      type: String,
+      required: true,
+    },
+    days: {
+      type: int,
+      required: true,
+    },
+  });
+
+  const RoleTimeDB = mongoose.model("RoleTime", roleTimeSchema);
+
+  module.exports = {
+    RoleTimeDB
+  }
